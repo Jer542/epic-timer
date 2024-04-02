@@ -1,2 +1,2 @@
 # epic-timer
-A timer application, written in python
+A timer app, written in python
